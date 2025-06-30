@@ -51,7 +51,7 @@ Start the server
 - The heights of bars on the screen represent the elements of array.
 
 ## screenshots
-![Screenshot 2023-07-05 141230](https://github.com/abhi280403/sorting-visualizer/assets/122891629/8277c6b9-71de-45f0-94c5-3d3f3d055c29)
+![Screenshot 2023-07-05 141230](https://github.com/viveknimmala/sorting-visualizer/assets/122891629/8277c6b9-71de-45f0-94c5-3d3f3d055c29)
 
 
 
