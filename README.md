@@ -16,7 +16,7 @@ The Sorting Visualizer is a simple web application that allows you to visualize 
 Clone the project
 
 ```bash
-  git clone https://github.com/abhi280403/sorting-visualizer.git
+  git clone https://github.com/viveknimmala/sorting-visualizer.git
 ```
 
 Go to the project directory
