@@ -6,7 +6,7 @@ The Sorting Visualizer is a simple web application that allows you to visualize 
 
 ## Features
 
-- Visualize popular sorting algorithm Mergesort
+- Visualize popular sorting algorithm 
 
 - Clear and regenerate the array for a new sorting run
 
@@ -45,9 +45,9 @@ Start the server
 
 ## Usage
 
-- Upon opening the Sorting Visualizer, you will see a  two buttons named merge sort and generate new array
+- Upon opening the Sorting Visualizer, you will see a  six buttons named merge sort,selection sort,insertion sort,quick sort,merge sort and generate new array
 - upon pressing generate new array every time you can get the new array every time
-- upon pressing the button merge sort u can visualize the merge sort on the screen with different colors.
+- upon pressing the button of any sorting technique u can visualize the  sorting on the screen with different colors.
 - The heights of bars on the screen represent the elements of array.
 
 ## screenshots
